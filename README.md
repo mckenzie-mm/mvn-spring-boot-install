@@ -47,6 +47,7 @@ Then run the following command from a command line terminal WITHOUT using sudo, 
 ```
 source "/home/userdir/.sdkman/bin/sdkman-init.sh"
 ```
+In the above command, replace "userdir" with the name of your home dir.
 
 To install Spring Boot CLI module using SDKMAN execute the following
 
